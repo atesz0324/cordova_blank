@@ -9,7 +9,7 @@ cordova-plugin-webpack
 
 ## Available Scripts  
 
-### `cordova run <platform]>`
+### `cordova run <platform>`
 
 Runs the app on the specified device.
 
