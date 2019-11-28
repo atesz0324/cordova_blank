@@ -2,6 +2,11 @@
 
 A clean Apache Cordova project with Onsen UI framework and Webpack bundler.
 
+## Added platforms
+
+Android  
+Browser  
+
 ## Used Plugins
 
 cordova-plugin-whitelist  
