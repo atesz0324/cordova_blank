@@ -15,4 +15,4 @@ Runs the app on the specified device.
 
 ### `cordova run browser -- --livereload`  
 
-Runs the app in the developement mode.
+Runs the app in the development mode.
