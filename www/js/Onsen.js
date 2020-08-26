@@ -1,9 +1,5 @@
-//Onsen UI :: Routing
 var Navigator = document.querySelector('#onsNavigator');
 
-
-
-//Onsen UI :: Eseményfigyelők az oldalak inicizalizálásakor
 document.addEventListener('init', function (event) {
     var page = event.target;
 
@@ -18,3 +14,4 @@ document.addEventListener('init', function (event) {
         console.log(page.data.title);
     }
 });
+
